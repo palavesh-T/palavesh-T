@@ -31,10 +31,10 @@
 
 
 ### ⚙️ Fun Facts:
-- 🎨 I enjoy [Art/Photography/Traveling/etc.]
-- 🍕 My favorite food is [Pizza/Sushi/etc.]
+- 🎨 I enjoy Volley Ball
+- 🍕 My favorite food is Briyani
 
 ---
 
 ### 📫 Reach Me At:
-- 📧 **Email:** [your-email@example.com]
+- 📧 **Email:** palavesh2000@gmail.com
