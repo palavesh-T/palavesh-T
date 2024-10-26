@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Palavesh.T!
 
 ### 🌐 About Me
 - 🚀 **Currently working on:** [Your Current Project or Tech Stack]
