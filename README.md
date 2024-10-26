@@ -1,11 +1,9 @@
 # 👋 Hello, I'm Palavesh.T!
 
 ### 🌐 About Me
-- 🚀 **Currently working on:** [Your Current Project or Tech Stack]
-- 💼 **Open to work:** [Freelance, Full-time, Collaborations]
-- 🎯 **Goals:** [Your Goals for the Year/Month]
-- 💬 **Ask me about:** [Your Expertise Areas]
-- 🌱 **Learning:** [What You’re Currently Learning]
+- 💼 **Open to work:** Freelance
+- 💬 **Ask me about:** Web Application Developer
+- 🌱 **Learning:** Devops
 
 ---
 
@@ -24,23 +22,13 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### 🏆 Achievements:
-- 🌟 [Add notable achievements or certifications here]
+- 🌟 Best Perfomer 
 
 ---
 
-### 📅 Recent Activity:
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
----
 
 ### ⚙️ Fun Facts:
 - 🎨 I enjoy [Art/Photography/Traveling/etc.]
